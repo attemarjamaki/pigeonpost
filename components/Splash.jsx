@@ -23,9 +23,10 @@ function Splash() {
             />
           </div>
           <h1 className="text-center text-4xl font-bold text-fb-white mb-8">
-            Get started!
+            Updating...
           </h1>
           <div className="flex justify-center mb-8">
+            {/*
             <ConnectWallet
               theme={darkTheme({
                 colors: {
@@ -51,6 +52,12 @@ function Splash() {
               }}
               modalTitleIconUrl={""}
             />
+            */}
+            <p className="text-center text-fb-silver">
+              The Mumbai testent has been deprecated...
+              <br />
+              Update coming soon to the Amoy testnet
+            </p>
           </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray py-4">
             <p>{"Don't have a wallet installed?"}</p>
@@ -68,10 +75,10 @@ function Splash() {
             <p>
               The smart contract is deployed to the
               <br />
-              Mumbai testnet. To get some testnet MATIC
+              Amoy testnet. To get some testnet MATIC
             </p>
             <Link
-              href="https://mumbaifaucet.com/"
+              href="https://www.alchemy.com/faucets/polygon-amoy"
               rel="noopener noreferrer"
               target="_blank"
             >
