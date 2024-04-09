@@ -1,3 +1,7 @@
+## Update coming soon...
+Mumbai testet has been deprecated so update coming soon...
+The contract is now on the Amoy testnet https://www.oklink.com/amoy/address/0x6742bd818e1a822ba9899a24a98462a1287b2253
+
 ## About
 
 This is a test version of a decetralized social media application that runs on Polygon's Mumbai testnet.
