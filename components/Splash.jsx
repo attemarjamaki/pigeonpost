@@ -68,15 +68,8 @@ function Splash() {
             <p>
               The smart contract is deployed to the
               <br />
-              Amoy testnet. To get some testnet MATIC
+              Polygon Mainnet
             </p>
-            <Link
-              href="https://www.alchemy.com/faucets/polygon-amoy"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              <p className=" hover:text-fb-white">click here</p>
-            </Link>
           </div>
         </div>
       </div>
