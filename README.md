@@ -3,6 +3,10 @@
 This is a decetralized social media application that runs on Polygon.
 You can find the contract address and the smart contract by visiting https://polygonscan.com/address/0x6742bD818e1a822BA9899a24A98462A1287B2253
 
+This project was developed as part of my thesis work at Arcada UAS.
+
+📄 Read the full thesis here: [Blockkedjeteknik och utvecklingen av en decentraliserad applikation (dApp)](https://www.theseus.fi/handle/10024/887120)
+
 ## Getting Started
 
 To use this application you will need to have a wallet like Metamask and some MATIC.
